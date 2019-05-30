@@ -32,7 +32,7 @@ namespace API.Controllers
             {
                 _smtpClient.Send(new MailMessage(
                     from: _from,
-                    to: "kubilaykocabal@gmail.com",
+                    to: "",
                     subject: "Test message subject",
                     body: "Test message body"
                 ));
