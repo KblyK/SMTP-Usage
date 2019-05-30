@@ -1,0 +1,14 @@
+D:\Examples\.net Core\SMTP-Usage\API\bin\Debug\netcoreapp2.2\API.deps.json
+D:\Examples\.net Core\SMTP-Usage\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+D:\Examples\.net Core\SMTP-Usage\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+D:\Examples\.net Core\SMTP-Usage\API\bin\Debug\netcoreapp2.2\API.dll
+D:\Examples\.net Core\SMTP-Usage\API\bin\Debug\netcoreapp2.2\API.pdb
+D:\Examples\.net Core\SMTP-Usage\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+D:\Examples\.net Core\SMTP-Usage\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+D:\Examples\.net Core\SMTP-Usage\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+D:\Examples\.net Core\SMTP-Usage\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+D:\Examples\.net Core\SMTP-Usage\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+D:\Examples\.net Core\SMTP-Usage\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+D:\Examples\.net Core\SMTP-Usage\API\obj\Debug\netcoreapp2.2\API.dll
+D:\Examples\.net Core\SMTP-Usage\API\obj\Debug\netcoreapp2.2\API.pdb
+D:\Examples\.net Core\SMTP-Usage\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
